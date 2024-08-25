@@ -17,7 +17,7 @@ from Array.ArrayClass import Array
 def introduction():
     print("\nArray")
     print("-"*120)
-    print("This Module Contation all the algorithm related to the Array datastructure")
+    print("This Module contains all the algorithm related to the Array datastructure")
     print("example of array algorithm")
     x=Array(1,2,3,4,5,6)
     y=Array(100,101,102,103,104)
