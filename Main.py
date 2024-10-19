@@ -6,6 +6,7 @@ import Polynomial
 import Linked_list
 import SparceMatrix_Linkedlist
 import Polynomial_Linkedlist
+import Stack
 
 print("*" * 120)
 print("Welcome to dataStructure and algorithm cource:")
@@ -20,3 +21,4 @@ Polynomial.introduction()
 Linked_list.introduction()
 SparceMatrix_Linkedlist.introduction()
 Polynomial_Linkedlist.introduction()
+Stack.introduction()
