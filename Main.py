@@ -8,6 +8,7 @@ import SparceMatrix_Linkedlist
 import Polynomial_Linkedlist
 import Stack
 import Queue
+import Sorting
 
 print("*" * 120)
 print("Welcome to dataStructure and algorithm cource:")
@@ -24,3 +25,4 @@ SparceMatrix_Linkedlist.introduction()
 Polynomial_Linkedlist.introduction()
 Stack.introduction()
 Queue.introduction()
+Sorting.introduction()
