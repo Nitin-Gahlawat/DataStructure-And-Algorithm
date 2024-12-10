@@ -10,6 +10,7 @@ import Stack
 import Queue
 import Sorting
 import Hashing
+import Tree
 
 print("*" * 120)
 print("Welcome to dataStructure and algorithm cource:")
@@ -28,3 +29,4 @@ Stack.introduction()
 Queue.introduction()
 Sorting.introduction()
 Hashing.introduction()
+Tree.introduction()
