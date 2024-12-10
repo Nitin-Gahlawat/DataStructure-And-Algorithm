@@ -11,6 +11,7 @@ import Queue
 import Sorting
 import Hashing
 import Tree
+import Graph
 
 print("*" * 120)
 print("Welcome to dataStructure and algorithm cource:")
@@ -30,3 +31,4 @@ Queue.introduction()
 Sorting.introduction()
 Hashing.introduction()
 Tree.introduction()
+Graph.introduction()
