@@ -9,6 +9,7 @@ import Polynomial_Linkedlist
 import Stack
 import Queue
 import Sorting
+import Hashing
 
 print("*" * 120)
 print("Welcome to dataStructure and algorithm cource:")
@@ -26,3 +27,4 @@ Polynomial_Linkedlist.introduction()
 Stack.introduction()
 Queue.introduction()
 Sorting.introduction()
+Hashing.introduction()
